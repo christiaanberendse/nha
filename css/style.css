@@ -1,0 +1,104 @@
+body {
+    background-color: #CCFFFF;
+}
+
+header {
+    background-color: #3300FF;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+table {
+    border: 3px solid black;
+}
+
+td {
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+    width: 150px;
+    height: 30px  
+}
+
+#bospeen {
+    background-color: white;
+}
+
+#bospeenafb {
+    background-color: yellow;
+}
+
+#bloemkool {
+    background-color: purple;
+    color: white;
+}
+
+#bloemkoolafb {
+    background-color: orange;
+}
+
+#komkommer {
+    background-color: green;
+    color: white;
+}
+
+#komkommerafb {
+    background-color: blue;
+}
+
+#prei {
+    background-color: brown;
+    color: white;
+}
+
+#preiafb {
+    background-color: lightgreen;
+}
+
+#tomaat {
+    background-color: red;
+    color: white;
+}
+
+#tomaatafb {
+    background-color: lightblue;
+}
+
+#andijvie {
+    background-color: gray;
+    color: white;
+}
+#andijvieafb {
+    background-color: pink;
+}
+
+#broccoli {
+    background-color: darkgreen;
+    color: white; 
+}
+
+#broccoliafb {
+    background-color: darkred;
+    color: white; 
+}
+
+#avocado {
+    background-color: darkblue;
+    color: white;
+}
+
+#avocadoafb {
+    background-color: chocolate;
+    color: white;
+}
+
+#zwart {
+    background-color: black;
+    color: white;
+}
+
+footer {
+    background-color: #000000;
+    color: #FFFF00;
+    text-align: center;
+}
