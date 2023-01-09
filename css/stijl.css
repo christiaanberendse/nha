@@ -1,0 +1,55 @@
+body {
+    background-color: beige; 
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+nav {
+    background-color: #C4A484;
+    color: white;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.navbar-nav {
+    color: azure;
+}
+
+#overmijtekst img {
+    margin: 20px;
+}
+
+@media only screen and (min-width: 576px) {
+#overmijtekst {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+#overmijtekst h2{
+        text-align: left;
+}
+}
+form {
+    background-color: #f0e2d4;
+    padding: 30px;
+}
+
+form button {
+    margin-top: 20px;
+}
+
+footer {
+    position: relative;
+    margin-left: -5%;
+    margin-right: -5%;
+    padding-top:20px;
+    height: 200px;
+    background-color: #C4A484;
+}
+@media only screen and (min-width: 576px) {
+    footer {
+        margin-left: -30%;
+        margin-right: -30%;
+    }
+}
