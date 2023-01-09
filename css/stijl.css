@@ -3,14 +3,12 @@ body {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
 }
 
 nav {
     background-color: #C4A484;
     color: white;
     margin-bottom: 20px;
-    width: 100%;
 }
 .navbar-nav {
     color: azure;
