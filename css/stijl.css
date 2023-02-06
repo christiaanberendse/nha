@@ -32,7 +32,7 @@ img {
 }
 
 .footer {
-    background-color: #CC8899#CC8899;
+    background-color: #CC8899;
     color: #FFF;
     height: 30px;
     text-align: center;
@@ -44,7 +44,7 @@ img {
     color: #FFF;
 }
 #inhoud {
-    background-color: #F8C9F4;
+    background-color: #f8c9f4;
     text-align: left;
 }
 #inhoud img {
@@ -64,7 +64,7 @@ td, th {
 }
 
 #inhoud {
-    background-color: #F8C9F4;
+    background-color: #f8c9f4;
 }
 }
 
