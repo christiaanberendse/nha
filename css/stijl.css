@@ -1,5 +1,5 @@
 body {
-    background-color: pink;
+    background-color: #FFC0CB;
 }
 [class*="col-"] {
     text-align: center;
@@ -11,8 +11,8 @@ body {
 }
 /* Header */
 .header {
-    background-color: purple;
-    color: white;
+    background-color: #CC8899;
+    color: #FFF;
 }
 .header img {
     width: 300px;
@@ -32,19 +32,19 @@ img {
 }
 
 .footer {
-    background-color: purple;
+    background-color: #CC8899#CC8899;
     color: #FFF;
     height: 30px;
     text-align: center;
 }
 /* JQuery Accordion */
 #accordion h3 {
-    background-color: purple; 
+    background-color: #CC8899; 
     border: none; 
-    color: white;
+    color: #FFF;
 }
 #inhoud {
-    background-color: rgb(248, 201, 244);
+    background-color: #2596BE;
     text-align: left;
 }
 #inhoud img {
@@ -58,13 +58,13 @@ td, th {
 }
 @media only screen and (min-width: 768px) {
 #accordion h3 {
-    background-color: purple; 
+    background-color: #CC8899; 
     border: none; 
-    color: white;
+    color: #FFF;
 }
 
 #inhoud {
-    background-color: rgb(248, 201, 244);
+    background-color: #2596BE;
 }
 }
 
@@ -89,7 +89,7 @@ img[data-action="zoom"] {
   }
   .zoom-overlay {
     z-index: 420;
-    background: pink;
+    background: #FFC0CB;
     position: fixed;
     top: 0;
     left: 0;
