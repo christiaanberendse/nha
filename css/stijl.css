@@ -11,7 +11,7 @@ body {
 }
 /* Header */
 .header {
-    background-color: #CC8899;
+    background-color: #800080;
     color: #FFF;
 }
 .header img {
@@ -32,14 +32,14 @@ img {
 }
 
 .footer {
-    background-color: #CC8899;
+    background-color: #800080;
     color: #FFF;
     height: 30px;
     text-align: center;
 }
 /* JQuery Accordion */
 #accordion h3 {
-    background-color: #CC8899; 
+    background-color: ##800080; 
     border: none; 
     color: #FFF;
 }
@@ -58,7 +58,7 @@ td, th {
 }
 @media only screen and (min-width: 768px) {
 #accordion h3 {
-    background-color: #CC8899; 
+    background-color: #800080; 
     border: none; 
     color: #FFF;
 }
